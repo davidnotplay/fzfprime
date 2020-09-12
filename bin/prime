@@ -1,0 +1,5 @@
+#!/usr/bin/env python3
+""" Execute the fzf_prime command
+"""
+from fzfprime import main
+main()
